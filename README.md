@@ -18,7 +18,7 @@ This is a Sudoku game implemented using C++ and SDL2 for graphical rendering. Th
 - Difficulty Levels: Choose between different difficulty levels to generate puzzles of varying complexity.
 
 ## **Example Response**
-Here is an example of the Sudoku game in action:
+Here is an example of the Sudoku game:
 
 ![Image](https://github.com/user-attachments/assets/34b99203-7c0e-454b-9ea7-43566d3c1625)
 ![Image](https://github.com/user-attachments/assets/da569d0f-32b7-4ec0-81c8-888f69cf62e1)
